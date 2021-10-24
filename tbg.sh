@@ -1,3 +1,5 @@
+#!/bin/bash
+
 bg="░"
 tlline="┌"
 hline="─"
