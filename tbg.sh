@@ -37,6 +37,7 @@ charArray[x]="█░█░█░█░█"
 charArray[y]="█░█░█░░▀░"
 charArray[z]="▀▀█░▄▀▀▀▀"
 
+charArray[.]="░░░░░░░▀░"
 charArray[:]="░░░░▀░░▀░"
 charArray[!]="░█░░▀░░▀░"
 charArray[?]="▀▀█░▀░░▀░"
